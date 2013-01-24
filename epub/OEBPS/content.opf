@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>The Third Awakening is a grim, erotic, eco-friendly, sci-fi fantasy satire about corporate culture and the superior beings who have come to save Earth from itself and human beings from their darker side. As Sam helps the Joracians in their daunting enterprise, he wins their favor and is initiated into the secret circles of Joracian power. But…all he really wants is—to get with Sylvia! Very tasty!</dc:description>
+    <dc:language>en</dc:language>
+    <dc:creator opf:role="aut">Dennis Weiser</dc:creator>
+    <meta name="calibre:timestamp" content="2012-12-20T08:40:34.254428"/>
+    <dc:title>The Third Awakening</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:contributor opf:role="bkp">Smashwords, Inc.</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">506ab002-b5eb-461b-afb2-8eea57f177c9</dc:identifier>
+    <dc:subject>erotica</dc:subject>
+    <dc:subject>love</dc:subject>
+    <dc:subject>guilt</dc:subject>
+    <dc:subject>rape</dc:subject>
+    <dc:subject>prostitution</dc:subject>
+    <dc:subject>slavery</dc:subject>
+    <dc:subject>salvation</dc:subject>
+    <dc:subject>remorse</dc:subject>
+    <dc:subject>telepathy</dc:subject>
+    <dc:subject>genocide</dc:subject>
+    <dc:subject>sin</dc:subject>
+    <dc:subject>counterinsurgency</dc:subject>
+    <dc:subject>propaganda</dc:subject>
+    <dc:subject>collaboration</dc:subject>
+    <dc:subject>cannibalism</dc:subject>
+    <dc:subject>exploitation</dc:subject>
+    <dc:subject>new age spirituality</dc:subject>
+    <dc:subject>disinformation</dc:subject>
+    <dc:subject>ecofriendly</dc:subject>
+    <dc:subject>eichmann</dc:subject>
+    <dc:subject>corporate culture</dc:subject>
+    <dc:subject>predation</dc:subject>
+    <dc:subject>platos academy</dc:subject>
+    <dc:subject>narcotrafficking</dc:subject>
+    <dc:subject>commercial advertising</dc:subject>
+    <dc:subject>moral culpability</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_000.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_001.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_002.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_003.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_004.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_005.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_006.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_007.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_008.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_009.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_010.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_011.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_012.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_013.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_014.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_015.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_016.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_017.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_018.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_019.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_020.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y_html_3c25fe34.png" id="added4" media-type="image/png"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y_html_5e08698e.png" id="added1" media-type="image/png"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y_html_m1b36e240.png" id="added5" media-type="image/png"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y_html_m1c43abf1.png" id="added2" media-type="image/png"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y_html_m32c48b34.png" id="added" media-type="image/png"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y_html_m5da4dffc.png" id="added6" media-type="image/png"/>
+    <item href="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y_html_m7ddd121b.png" id="added3" media-type="image/png"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

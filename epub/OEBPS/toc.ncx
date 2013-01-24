@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="506ab002-b5eb-461b-afb2-8eea57f177c9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.34)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Third Awakening</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="61f956e1-d850-4283-bc62-24ef2d10a5cd" playOrder="1">
+      <navLabel>
+        <text>Chapter 1 New Stanley</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_001.html#calibre_toc_2"/>
+    </navPoint>
+    <navPoint id="03acb395-a8db-4abe-b2e8-31b4e6806da5" playOrder="2">
+      <navLabel>
+        <text>Chapter 2 The Mother Ship</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_002.html#calibre_toc_3"/>
+    </navPoint>
+    <navPoint id="e18e6a67-6e0d-4483-a78e-6903c1d407ce" playOrder="3">
+      <navLabel>
+        <text>Chapter 3 The Joracians</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_003.html#calibre_toc_4"/>
+    </navPoint>
+    <navPoint id="0368ee36-bb53-46a4-b809-d6ba278cfbd3" playOrder="4">
+      <navLabel>
+        <text>Chapter 4 Poetry</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_004.html#calibre_toc_5"/>
+    </navPoint>
+    <navPoint id="ea6074a5-1323-473c-86e0-8c6d0ac33de8" playOrder="5">
+      <navLabel>
+        <text>Chapter 5 Vivaldi!</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_005.html#calibre_toc_6"/>
+    </navPoint>
+    <navPoint id="b80d27bc-479a-49d3-84e7-c626164abb37" playOrder="6">
+      <navLabel>
+        <text>Chapter 6 Jambalya</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_006.html#calibre_toc_7"/>
+    </navPoint>
+    <navPoint id="03b2ff54-57cd-421b-bf51-020a4f893d14" playOrder="7">
+      <navLabel>
+        <text>Chapter 7 The Hall of Memory</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_007.html#calibre_toc_8"/>
+    </navPoint>
+    <navPoint id="651a1154-99f7-42c0-8c45-10413981bac1" playOrder="8">
+      <navLabel>
+        <text>Chapter 8 High Tribunal</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_008.html#calibre_toc_9"/>
+    </navPoint>
+    <navPoint id="05b886b6-0084-453c-b2c8-4f5b69a19022" playOrder="9">
+      <navLabel>
+        <text>Chapter 9 First Assignment</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_009.html#calibre_toc_10"/>
+    </navPoint>
+    <navPoint id="65646af5-dc3e-44d1-9be2-4c6ac60d52ab" playOrder="10">
+      <navLabel>
+        <text>Chapter 10 Mini-Ship</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_010.html#calibre_toc_11"/>
+    </navPoint>
+    <navPoint id="17d89b63-5a42-4617-93a0-50863a68b770" playOrder="11">
+      <navLabel>
+        <text>Chapter 11 The CEO Club</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_011.html#calibre_toc_12"/>
+    </navPoint>
+    <navPoint id="553c0541-d1e5-4725-82a1-1f76e65831a5" playOrder="12">
+      <navLabel>
+        <text>Chapter 12 Colonies</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_012.html#calibre_toc_13"/>
+    </navPoint>
+    <navPoint id="46eaf65a-e247-4d1c-8835-30c9d00eabd7" playOrder="13">
+      <navLabel>
+        <text>Chapter 13 Virtual Reality</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_013.html#calibre_toc_14"/>
+    </navPoint>
+    <navPoint id="d3cb52c4-46d4-4f35-9562-5025d684cece" playOrder="14">
+      <navLabel>
+        <text>Chapter 14 A Curious Omission</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_014.html#calibre_toc_15"/>
+    </navPoint>
+    <navPoint id="fdc730bc-8a4e-43e3-aa28-bf30a6082a8a" playOrder="15">
+      <navLabel>
+        <text>Chapter 15 EEK-O-BLAST</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_015.html#calibre_toc_16"/>
+    </navPoint>
+    <navPoint id="694df528-5153-4888-a26b-825a8efe4e21" playOrder="16">
+      <navLabel>
+        <text>Chapter 16 After Hours</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_016.html#calibre_toc_17"/>
+    </navPoint>
+    <navPoint id="05d54aad-92c1-4f0c-bb6e-dbbf5dd0dd72" playOrder="17">
+      <navLabel>
+        <text>Chapter 17 Brutal Ardor</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_017.html#calibre_toc_18"/>
+    </navPoint>
+    <navPoint id="c10b1b0e-f13f-4f79-bd64-fb16b42b0caf" playOrder="18">
+      <navLabel>
+        <text>Chapter 18 New World</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_018.html#calibre_toc_19"/>
+    </navPoint>
+    <navPoint id="5ea5b2f5-bdd2-47cd-834b-5d47566cb0c9" playOrder="19">
+      <navLabel>
+        <text>Chapter 19 The G-Spot</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_019.html#calibre_toc_20"/>
+    </navPoint>
+    <navPoint id="a435cac9-1129-4ca7-b012-29500132fb08" playOrder="20">
+      <navLabel>
+        <text>Chapter 20 THE END</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_020.html#calibre_toc_21"/>
+    </navPoint>
+    <navPoint id="2a87c4e1-0f6f-4e9f-bf5f-e5ff1b1f515a" playOrder="21">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="tmp_a4c0762cd8191deb457e91beb71bd5cf_Xyt24y.ch.fixed.fc.tidied.stylehacked.xfixed_split_020.html#About_the_Author"/>
+    </navPoint>
+  </navMap>
+</ncx>
